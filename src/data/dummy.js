@@ -551,7 +551,7 @@ export const chatData = [
   {
     image:
       avatar2,
-    message: 'Roman Joined the Team!',
+    message: 'Rishi Joined the Team!',
     desc: 'Congratulate him',
     time: '9:08 AM',
   },
@@ -559,20 +559,20 @@ export const chatData = [
     image:
       avatar3,
     message: 'New message received',
-    desc: 'Salma sent you new message',
-    time: '11:56 AM',
+    desc: 'Raghav sent you new message',
+    time: '11:00 AM',
   },
   {
     image:
       avatar4,
     message: 'New Payment received',
     desc: 'Check your earnings',
-    time: '4:39 AM',
+    time: '4:07 AM',
   },
   {
     image:
       avatar,
-    message: 'Jolly completed tasks',
+    message: 'Prateek completed tasks',
     desc: 'Assign her new tasks',
     time: '1:12 AM',
   },
@@ -809,6 +809,30 @@ export const themeColors = [
     color: '#FB9678',
     name: 'orange-theme',
   },
+  {
+    color: '#00C292',
+    name: 'teal-theme',
+  },
+  {
+    color: '#FF9800',
+    name: 'yellow-theme',
+  },
+  {
+    color: '#FFC107',
+    name: 'pink-theme',
+  },
+  {
+    color: '#FF69B4',
+    name: 'pink2-theme',
+  },
+  {
+    color: '#FFC0CB',
+    name: 'light-pink-theme',
+  },
+  {
+    color: '#FF69B4',
+    name: 'pink3-theme',
+  }
 ];
 
 export const userProfileData = [
@@ -1453,7 +1477,7 @@ export const employeesData = [
     Title: 'Sales Representative',
     HireDate: '01/02/2021',
     Country: 'USA',
-    ReportsTo: 'Carson',
+    ReportsTo: 'Rishi Bhardwaj',
     EmployeeImage:
     avatar3,
   },
@@ -1463,7 +1487,7 @@ export const employeesData = [
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
     Country: 'USA',
-    ReportsTo: 'Carson',
+    ReportsTo: 'Rishi Bhardwaj',
     EmployeeImage:
       avatar3,
   },
@@ -1473,7 +1497,7 @@ export const employeesData = [
     Title: 'HR',
     HireDate: '01/02/2021',
     Country: 'USA',
-    ReportsTo: 'Carson',
+    ReportsTo: 'Rishi Bhardwaj',
     EmployeeImage:
       avatar4,
   },
@@ -1483,7 +1507,7 @@ export const employeesData = [
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
     Country: 'USA',
-    ReportsTo: 'Carson',
+    ReportsTo: 'Rishi Bhardwaj',
     EmployeeImage:
       avatar2,
   },
@@ -1493,7 +1517,7 @@ export const employeesData = [
     Title: 'HR',
     HireDate: '01/02/2021',
     Country: 'USA',
-    ReportsTo: 'Carson',
+    ReportsTo: 'Rishi Bhardwaj',
     EmployeeImage:
       avatar,
   },
@@ -1503,7 +1527,7 @@ export const employeesData = [
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
     Country: 'USA',
-    ReportsTo: 'Carson',
+    ReportsTo: 'Rishi Bhardwaj',
     EmployeeImage:
       avatar,
   },
@@ -1513,7 +1537,7 @@ export const employeesData = [
     Title: 'HR',
     HireDate: '01/02/2021',
     Country: 'USA',
-    ReportsTo: 'Carson',
+    ReportsTo: 'Rishi Bhardwaj',
     EmployeeImage:
       avatar2,
   },
@@ -1523,7 +1547,7 @@ export const employeesData = [
     Title: 'Sales Representative',
     HireDate: '01/02/2021',
     Country: 'USA',
-    ReportsTo: 'Carson',
+    ReportsTo: 'Rishi Bhardwaj',
     EmployeeImage:
     avatar2,
 
@@ -1534,7 +1558,7 @@ export const employeesData = [
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
     Country: 'USA',
-    ReportsTo: 'Carson',
+    ReportsTo: 'Rishi Bhardwaj',
     EmployeeImage:
       avatar3,
   },
@@ -1544,7 +1568,7 @@ export const employeesData = [
     Title: 'HR',
     HireDate: '01/02/2021',
     Country: 'USA',
-    ReportsTo: 'Carson',
+    ReportsTo: 'Rishi Bhardwaj',
     EmployeeImage:
       avatar4,
   },
@@ -1554,7 +1578,7 @@ export const employeesData = [
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
     Country: 'USA',
-    ReportsTo: 'Carson',
+    ReportsTo: 'Rishi Bhardwaj',
     EmployeeImage:
       avatar2,
   },
@@ -1564,7 +1588,7 @@ export const employeesData = [
     Title: 'HR',
     HireDate: '01/02/2021',
     Country: 'USA',
-    ReportsTo: 'Carson',
+    ReportsTo: 'Rishi Bhardwaj',
     EmployeeImage:
       avatar,
   },
@@ -1574,7 +1598,7 @@ export const employeesData = [
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
     Country: 'USA',
-    ReportsTo: 'Carson',
+    ReportsTo: 'Rishi Bhardwaj',
     EmployeeImage:
       avatar,
   },
@@ -1584,7 +1608,7 @@ export const employeesData = [
     Title: 'HR',
     HireDate: '01/02/2021',
     Country: 'USA',
-    ReportsTo: 'Carson',
+    ReportsTo: 'Rishi Bhardwaj',
     EmployeeImage:
       avatar2,
   },
@@ -1594,7 +1618,7 @@ export const employeesData = [
     Title: 'Sales Representative',
     HireDate: '01/02/2021',
     Country: 'USA',
-    ReportsTo: 'Carson',
+    ReportsTo: 'Rishi Bhardwaj',
     EmployeeImage:
     avatar,
   },
@@ -1604,7 +1628,7 @@ export const employeesData = [
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
     Country: 'USA',
-    ReportsTo: 'Carson',
+    ReportsTo: 'Rishi Bhardwaj',
     EmployeeImage:
       avatar3,
   },
@@ -1614,7 +1638,7 @@ export const employeesData = [
     Title: 'HR',
     HireDate: '01/02/2021',
     Country: 'USA',
-    ReportsTo: 'Carson',
+    ReportsTo: 'Rishi Bhardwaj',
     EmployeeImage:
       avatar4,
   },
@@ -1624,7 +1648,7 @@ export const employeesData = [
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
     Country: 'USA',
-    ReportsTo: 'Carson',
+    ReportsTo: 'Rishi Bhardwaj',
     EmployeeImage:
       avatar2,
   },
@@ -1634,7 +1658,7 @@ export const employeesData = [
     Title: 'HR',
     HireDate: '01/02/2021',
     Country: 'USA',
-    ReportsTo: 'Carson',
+    ReportsTo: 'Rishi Bhardwaj',
     EmployeeImage:
       avatar,
   },
@@ -1644,7 +1668,7 @@ export const employeesData = [
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
     Country: 'USA',
-    ReportsTo: 'Carson',
+    ReportsTo: 'Rishi Bhardwaj',
     EmployeeImage:
       avatar,
   },
@@ -1654,7 +1678,7 @@ export const employeesData = [
     Title: 'HR',
     HireDate: '01/02/2021',
     Country: 'USA',
-    ReportsTo: 'Carson',
+    ReportsTo: 'Rishi Bhardwaj',
     EmployeeImage:
       avatar2,
   },
@@ -1664,7 +1688,7 @@ export const employeesData = [
     Title: 'Sales Representative',
     HireDate: '01/02/2021',
     Country: 'USA',
-    ReportsTo: 'Carson',
+    ReportsTo: 'Rishi Bhardwaj',
     EmployeeImage:
     avatar2,
 
@@ -1675,7 +1699,7 @@ export const employeesData = [
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
     Country: 'USA',
-    ReportsTo: 'Carson',
+    ReportsTo: 'Rishi Bhardwaj',
     EmployeeImage:
       avatar3,
   },
@@ -1685,7 +1709,7 @@ export const employeesData = [
     Title: 'HR',
     HireDate: '01/02/2021',
     Country: 'USA',
-    ReportsTo: 'Carson',
+    ReportsTo: 'Rishi Bhardwaj',
     EmployeeImage:
       avatar4,
   },
@@ -1695,7 +1719,7 @@ export const employeesData = [
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
     Country: 'USA',
-    ReportsTo: 'Carson',
+    ReportsTo: 'Rishi Bhardwaj',
     EmployeeImage:
       avatar2,
   },
@@ -1705,7 +1729,7 @@ export const employeesData = [
     Title: 'HR',
     HireDate: '01/02/2021',
     Country: 'USA',
-    ReportsTo: 'Carson',
+    ReportsTo: 'Rishi Bhardwaj',
     EmployeeImage:
       avatar,
   },
@@ -1715,7 +1739,7 @@ export const employeesData = [
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
     Country: 'USA',
-    ReportsTo: 'Carson',
+    ReportsTo: 'Rishi Bhardwaj',
     EmployeeImage:
       avatar,
   },
@@ -1725,7 +1749,7 @@ export const employeesData = [
     Title: 'HR',
     HireDate: '01/02/2021',
     Country: 'USA',
-    ReportsTo: 'Carson',
+    ReportsTo: 'Rishi Bhardwaj',
     EmployeeImage:
       avatar2,
   },
@@ -1735,7 +1759,7 @@ export const employeesData = [
     Title: 'Sales Representative',
     HireDate: '01/02/2021',
     Country: 'USA',
-    ReportsTo: 'Carson',
+    ReportsTo: 'Rishi Bhardwaj',
     EmployeeImage:
     avatar2,
 
@@ -1746,7 +1770,7 @@ export const employeesData = [
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
     Country: 'USA',
-    ReportsTo: 'Carson',
+    ReportsTo: 'Rishi Bhardwaj',
     EmployeeImage:
       avatar3,
   },
@@ -1756,7 +1780,7 @@ export const employeesData = [
     Title: 'HR',
     HireDate: '01/02/2021',
     Country: 'USA',
-    ReportsTo: 'Carson',
+    ReportsTo: 'Rishi Bhardwaj',
     EmployeeImage:
       avatar4,
   },
@@ -1766,7 +1790,7 @@ export const employeesData = [
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
     Country: 'USA',
-    ReportsTo: 'Carson',
+    ReportsTo: 'Rishi Bhardwaj',
     EmployeeImage:
       avatar2,
   },
@@ -1776,7 +1800,7 @@ export const employeesData = [
     Title: 'HR',
     HireDate: '01/02/2021',
     Country: 'USA',
-    ReportsTo: 'Carson',
+    ReportsTo: 'Rishi Bhardwaj',
     EmployeeImage:
       avatar,
   },
@@ -1786,7 +1810,7 @@ export const employeesData = [
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
     Country: 'USA',
-    ReportsTo: 'Carson',
+    ReportsTo: 'Rishi Bhardwaj',
     EmployeeImage:
       avatar,
   },
@@ -1796,7 +1820,7 @@ export const employeesData = [
     Title: 'HR',
     HireDate: '01/02/2021',
     Country: 'USA',
-    ReportsTo: 'Carson',
+    ReportsTo: 'Rishi Bhardwaj',
     EmployeeImage:
       avatar2,
   },
@@ -1806,7 +1830,7 @@ export const employeesData = [
     Title: 'Sales Representative',
     HireDate: '01/02/2021',
     Country: 'USA',
-    ReportsTo: 'Carson',
+    ReportsTo: 'Rishi Bhardwaj',
     EmployeeImage:
     avatar2,
 
@@ -1817,7 +1841,7 @@ export const employeesData = [
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
     Country: 'USA',
-    ReportsTo: 'Carson',
+    ReportsTo: 'Rishi Bhardwaj',
     EmployeeImage:
       avatar3,
   },
@@ -1827,7 +1851,7 @@ export const employeesData = [
     Title: 'HR',
     HireDate: '01/02/2021',
     Country: 'USA',
-    ReportsTo: 'Carson',
+    ReportsTo: 'Rishi Bhardwaj',
     EmployeeImage:
       avatar4,
   },
@@ -1837,7 +1861,7 @@ export const employeesData = [
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
     Country: 'USA',
-    ReportsTo: 'Carson',
+    ReportsTo: 'Rishi Bhardwaj',
     EmployeeImage:
       avatar2,
   },
@@ -1847,7 +1871,7 @@ export const employeesData = [
     Title: 'HR',
     HireDate: '01/02/2021',
     Country: 'USA',
-    ReportsTo: 'Carson',
+    ReportsTo: 'Rishi Bhardwaj',
     EmployeeImage:
       avatar,
   },
@@ -1857,7 +1881,7 @@ export const employeesData = [
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
     Country: 'USA',
-    ReportsTo: 'Carson',
+    ReportsTo: 'Rishi Bhardwaj',
     EmployeeImage:
       avatar,
   },
@@ -1867,7 +1891,7 @@ export const employeesData = [
     Title: 'HR',
     HireDate: '01/02/2021',
     Country: 'USA',
-    ReportsTo: 'Carson',
+    ReportsTo: 'Rishi Bhardwaj',
     EmployeeImage:
       avatar2,
   },
@@ -1877,7 +1901,7 @@ export const employeesData = [
     Title: 'Sales Representative',
     HireDate: '01/02/2021',
     Country: 'USA',
-    ReportsTo: 'Carson',
+    ReportsTo: 'Rishi Bhardwaj',
     EmployeeImage:
     avatar2,
 
@@ -1888,7 +1912,7 @@ export const employeesData = [
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
     Country: 'USA',
-    ReportsTo: 'Carson',
+    ReportsTo: 'Rishi Bhardwaj',
     EmployeeImage:
       avatar3,
   },
@@ -1898,7 +1922,7 @@ export const employeesData = [
     Title: 'HR',
     HireDate: '01/02/2021',
     Country: 'USA',
-    ReportsTo: 'Carson',
+    ReportsTo: 'Rishi Bhardwaj',
     EmployeeImage:
       avatar4,
   },
@@ -1908,7 +1932,7 @@ export const employeesData = [
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
     Country: 'USA',
-    ReportsTo: 'Carson',
+    ReportsTo: 'Rishi Bhardwaj',
     EmployeeImage:
       avatar2,
   },
@@ -1918,7 +1942,7 @@ export const employeesData = [
     Title: 'HR',
     HireDate: '01/02/2021',
     Country: 'USA',
-    ReportsTo: 'Carson',
+    ReportsTo: 'Rishi Bhardwaj',
     EmployeeImage:
       avatar,
   },
@@ -1928,7 +1952,7 @@ export const employeesData = [
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
     Country: 'USA',
-    ReportsTo: 'Carson',
+    ReportsTo: 'Rishi Bhardwaj',
     EmployeeImage:
       avatar,
   },
@@ -1938,7 +1962,7 @@ export const employeesData = [
     Title: 'HR',
     HireDate: '01/02/2021',
     Country: 'USA',
-    ReportsTo: 'Carson',
+    ReportsTo: 'Rishi Bhardwaj',
     EmployeeImage:
       avatar2,
   },
@@ -1948,7 +1972,7 @@ export const employeesData = [
     Title: 'Sales Representative',
     HireDate: '01/02/2021',
     Country: 'USA',
-    ReportsTo: 'Carson',
+    ReportsTo: 'Rishi Bhardwaj',
     EmployeeImage:
     avatar2,
 
@@ -1959,7 +1983,7 @@ export const employeesData = [
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
     Country: 'USA',
-    ReportsTo: 'Carson',
+    ReportsTo: 'Rishi Bhardwaj',
     EmployeeImage:
       avatar3,
   },
@@ -1969,7 +1993,7 @@ export const employeesData = [
     Title: 'HR',
     HireDate: '01/02/2021',
     Country: 'USA',
-    ReportsTo: 'Carson',
+    ReportsTo: 'Rishi Bhardwaj',
     EmployeeImage:
       avatar4,
   },
@@ -1979,7 +2003,7 @@ export const employeesData = [
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
     Country: 'USA',
-    ReportsTo: 'Carson',
+    ReportsTo: 'Rishi Bhardwaj',
     EmployeeImage:
       avatar2,
   },
@@ -1989,7 +2013,7 @@ export const employeesData = [
     Title: 'HR',
     HireDate: '01/02/2021',
     Country: 'USA',
-    ReportsTo: 'Carson',
+    ReportsTo: 'Rishi Bhardwaj',
     EmployeeImage:
       avatar,
   },
@@ -1999,7 +2023,7 @@ export const employeesData = [
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
     Country: 'USA',
-    ReportsTo: 'Carson',
+    ReportsTo: 'Rishi Bhardwaj',
     EmployeeImage:
       avatar,
   },
@@ -2009,7 +2033,7 @@ export const employeesData = [
     Title: 'HR',
     HireDate: '01/02/2021',
     Country: 'USA',
-    ReportsTo: 'Carson',
+    ReportsTo: 'Rishi Bhardwaj',
     EmployeeImage:
       avatar2,
   },
@@ -2019,7 +2043,7 @@ export const employeesData = [
     Title: 'Sales Representative',
     HireDate: '01/02/2021',
     Country: 'USA',
-    ReportsTo: 'Carson',
+    ReportsTo: 'Rishi Bhardwaj',
     EmployeeImage:
     avatar2,
 
@@ -2030,7 +2054,7 @@ export const employeesData = [
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
     Country: 'USA',
-    ReportsTo: 'Carson',
+    ReportsTo: 'Rishi Bhardwaj',
     EmployeeImage:
       avatar3,
   },
@@ -2040,7 +2064,7 @@ export const employeesData = [
     Title: 'HR',
     HireDate: '01/02/2021',
     Country: 'USA',
-    ReportsTo: 'Carson',
+    ReportsTo: 'Rishi Bhardwaj',
     EmployeeImage:
       avatar4,
   },
@@ -2050,7 +2074,7 @@ export const employeesData = [
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
     Country: 'USA',
-    ReportsTo: 'Carson',
+    ReportsTo: 'Rishi Bhardwaj',
     EmployeeImage:
       avatar2,
   },
@@ -2060,7 +2084,7 @@ export const employeesData = [
     Title: 'HR',
     HireDate: '01/02/2021',
     Country: 'USA',
-    ReportsTo: 'Carson',
+    ReportsTo: 'Rishi Bhardwaj',
     EmployeeImage:
       avatar,
   },
@@ -2070,7 +2094,7 @@ export const employeesData = [
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
     Country: 'USA',
-    ReportsTo: 'Carson',
+    ReportsTo: 'Rishi Bhardwaj',
     EmployeeImage:
       avatar,
   },
@@ -2080,7 +2104,7 @@ export const employeesData = [
     Title: 'HR',
     HireDate: '01/02/2021',
     Country: 'USA',
-    ReportsTo: 'Carson',
+    ReportsTo: 'Rishi Bhardwaj',
     EmployeeImage:
       avatar2,
   },
@@ -2101,7 +2125,7 @@ export const ordersData = [
   },
   {
     OrderID: 345653,
-    CustomerName: 'Carson Darrin',
+    CustomerName: 'Rishi Bhardwaj Darrin',
     TotalAmount: 56.34,
     OrderItems: 'Butter Scotch',
     Location: 'Delhi',
@@ -2245,7 +2269,7 @@ export const ordersData = [
   },
   {
     OrderID: 345653,
-    CustomerName: 'Carson Darrin',
+    CustomerName: 'Rishi Bhardwaj Darrin',
     TotalAmount: 56.34,
     OrderItems: 'Butter Scotch',
     Location: 'Delhi',
@@ -2389,7 +2413,7 @@ export const ordersData = [
   },
   {
     OrderID: 345653,
-    CustomerName: 'Carson Darrin',
+    CustomerName: 'Rishi Bhardwaj Darrin',
     TotalAmount: 56.34,
     OrderItems: 'Butter Scotch',
     Location: 'Delhi',
@@ -2533,7 +2557,7 @@ export const ordersData = [
   },
   {
     OrderID: 345653,
-    CustomerName: 'Carson Darrin',
+    CustomerName: 'Rishi Bhardwaj Darrin',
     TotalAmount: 56.34,
     OrderItems: 'Butter Scotch',
     Location: 'Delhi',
@@ -2677,7 +2701,7 @@ export const ordersData = [
   },
   {
     OrderID: 345653,
-    CustomerName: 'Carson Darrin',
+    CustomerName: 'Rishi Bhardwaj Darrin',
     TotalAmount: 56.34,
     OrderItems: 'Butter Scotch',
     Location: 'Delhi',
